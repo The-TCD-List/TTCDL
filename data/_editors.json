@@ -1,8 +1,7 @@
 [
     {
-        "role": "owner",
+        "role": "atomic",
         "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
