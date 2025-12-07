@@ -1,0 +1,18 @@
+{
+    "id": 89496627,
+    "name": "Avernus",
+    "author": "PockeWindfish",
+    "creators": ["SyQual", "Zenn", "Zipixbox", "rWoomy", "TriplasH", "Realvet", "Deadlox", "BoBoBoBoBoBoBo", "El3ctr0", "Kyhros", "Deactive", "Nidro", "GD Iris", "Loolycat"],
+    "verifier": "Diamond",
+    "verification": "https://www.youtube.com/watch?v=oEFB-ZrhMmM",
+    "percentToQualify": 67,
+    "password": "030607",
+    "records": [
+        {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=aWyNtYYpjy8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
