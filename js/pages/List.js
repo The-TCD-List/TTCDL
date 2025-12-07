@@ -105,6 +105,9 @@ export default {
                     <p>
                         Don't try to submit records I know it's inaccurate
                     </p>
+                    <p>
+                        Hz is not accurate and only completions will be tallied. (no progress)
+                    </p>
                 </div>
             </div>
         </main>
