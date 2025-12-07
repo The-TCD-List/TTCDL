@@ -1,0 +1,24 @@
+{
+    "id": 49896559,
+    "name": "Abyss of Darkness",
+    "author": "Different Publisher",
+    "creators": ["ZmL", "GrenadeofTacos", "MegaSkill", "Greyrain", "Realvet", "Fenrrig", "Wahffle", "AlrexX", "DigitalZero", "CDMusic", "Maxfs", "GD Iris", "rynoxious", "MasterMan", "Xolarzz"],
+    "verifier": "Cursed",
+    "verification": "https://youtu.be/ejJkpqcMMCY",
+    "percentToQualify": "75",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=wZwCXjVdqz0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Doggie",
+            "link": "https://www.youtube.com/watch?v=myDuegpfTTk",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
