@@ -1,0 +1,29 @@
+{
+    "id": 73667628,
+    "name": "Acheron",
+    "author": "ryamu",
+    "creators": ["Metalface221", "Riot", "Komp", "GrenadeofTacos", "icedcave", "Cersia", "LimeTime313", "Endlevel", "goob", "AZuLer4", "ewop", "Deadlox", "ryamu", "silver"],
+    "verifier": "Doggie",
+    "verification": "https://www.youtube.com/watch?v=4ytMwX9B1Ss",
+    "percentToQualify": "70",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=ttsK0KYHJb8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cursed",
+            "link": "https://www.youtube.com/watch?v=TjXVpA_46i0",
+            "percent": 100,
+            "hz": 120
+        {
+            "user": "Denni",
+            "link": "https://www.youtube.com/watch?v=Njmrj0npTAk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
