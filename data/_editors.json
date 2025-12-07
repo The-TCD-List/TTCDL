@@ -2,25 +2,26 @@
     {
         "role": "atomic",
         "name": "List Owner",
+        "link": "#"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "atomic",
+        "name": "List Owner",
+        "link": "#"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "atomic",
+        "name": "List Owner",
+        "link": "#"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "atomic",
+        "name": "List Owner",
+        "link": "#"
     },
     {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "atomic",
+        "name": "List Owner",
+        "link": "#"
     }
 ]
