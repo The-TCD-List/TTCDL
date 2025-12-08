@@ -1,0 +1,36 @@
+{
+    "id": 27690100,
+    "name": "Slaughterhouse",
+    "author": "icedcave",
+    "creators": ["icedcave", "Brittank88", "Endlevel", "River", "CDMusic", "DrCuber", "GD Iris"],
+    "verifier": "Doggie",
+    "verification": "https://youtu.be/kpcF1-QAHQc",
+    "percentToQualify": "75",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Cursed",
+            "link": "https://www.youtube.com/watch?v=BmyCLv1gqyo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=GVuiXZIQzH4",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Diamond",
+            "link": "https://www.youtube.com/watch?v=ayLiN4mJzYo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Denni",
+            "link": "https://www.youtube.com/watch?v=JSgBGiJ04KU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
